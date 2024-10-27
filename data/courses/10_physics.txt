@@ -10,7 +10,6 @@ Basınç
 Kaldırma Kuvveti
 Dalgalar
 Yay Dalgası
-Yay Dalgası
 Su Dalgası
 Ses Dalgası
 Deprem Dalgası

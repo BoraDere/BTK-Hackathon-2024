@@ -1,72 +1,40 @@
-Doğru DüşünmeTemel TerimlerAkıl İlkeleri
+Doğru Düşünme
 Temel Terimler
 Akıl İlkeleri
-Mantığın Uygulama AlanlarıMantık ve Pratik YaşamMantık ve TeknikMantık ve BilimMantık ve Felsefe
+Mantığın Uygulama Alanları
 Mantık ve Pratik Yaşam
 Mantık ve Teknik
 Mantık ve Bilim
 Mantık ve Felsefe
-Temel Terimler
-Akıl İlkeleri
-Mantık ve Pratik Yaşam
-Mantık ve Teknik
-Mantık ve Bilim
-Mantık ve Felsefe
-Kavram ve TerimNelik, Gerçeklik, Kimlikİçlem ve KaplamKavram ÇeşitleriBeş TümelKavramların Birbirleriyle Olan İlişkisi
+Kavram ve Terim
 Nelik, Gerçeklik, Kimlik
 İçlem ve Kaplam
 Kavram Çeşitleri
 Beş Tümel
 Kavramların Birbirleriyle Olan İlişkisi
 Tanım
-ÖnermeÖnerme Çeşitleri
+Önerme
 Önerme Çeşitleri
-ÇıkarımDoğrudan ÇıkarımDolaylı Çıkarım (Kıyas)
+Çıkarım
 Doğrudan Çıkarım
 Dolaylı Çıkarım (Kıyas)
-Nelik, Gerçeklik, Kimlik
-İçlem ve Kaplam
-Kavram Çeşitleri
-Beş Tümel
-Kavramların Birbirleriyle Olan İlişkisi
-Önerme Çeşitleri
-Doğrudan Çıkarım
-Dolaylı Çıkarım (Kıyas)
-Dilin Farklı GörevleriBilgi Aktarma ve DilBilgi Aktarmayı Aksatan Etkenler
+Dilin Farklı Görevleri
 Bilgi Aktarma ve Dil
 Bilgi Aktarmayı Aksatan Etkenler
 Anlama ve Tanımlara
-Bilgi Aktarma ve Dil
-Bilgi Aktarmayı Aksatan Etkenler
 Sembolik Mantığa Giriş
-Önermeler MantığıÖnerme ve YapısıBasit ve Bileşik ÖnermelerÖnerme EklemleriÇıkarımSembolleştirmeYorumlamaDoğruluk ÇizelgesiÇözümleyici Çizelge (Ağaç Yöntemi)
+Önermeler Mantığı
 Önerme ve Yapısı
 Basit ve Bileşik Önermeler
 Önerme Eklemleri
-Çıkarım
 Sembolleştirme
 Yorumlama
 Doğruluk Çizelgesi
 Çözümleyici Çizelge (Ağaç Yöntemi)
-Niceleme MantığıSembolleştirmeTemel KavramlarTemel KurallarGeçerlilik
-Sembolleştirme
+Niceleme Mantığı
 Temel Kavramlar
 Temel Kurallar
 Geçerlilik
-Çok Değerli MantıkÜç Değerli MantıkBulanık Mantık
-Üç Değerli Mantık
-Bulanık Mantık
-Önerme ve Yapısı
-Basit ve Bileşik Önermeler
-Önerme Eklemleri
-Çıkarım
-Sembolleştirme
-Yorumlama
-Doğruluk Çizelgesi
-Çözümleyici Çizelge (Ağaç Yöntemi)
-Sembolleştirme
-Temel Kavramlar
-Temel Kurallar
-Geçerlilik
+Çok Değerli Mantık
 Üç Değerli Mantık
 Bulanık Mantık
