@@ -27,8 +27,7 @@
                         "Bulgulara Ulaşma ve Bulguları Yorumlama",
                         "İstatistiksel Görsel",
                         "Özet, Sonuç, Yorum, Çıkarım veya Tahminleri Değerlendirme"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Physics",
@@ -53,8 +52,7 @@
                         "Isıl Denge",
                         "Isı Aktarım Yolları",
                         "Isı İletim Hızı"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Chemistry",
@@ -80,8 +78,7 @@
                         "Metal Nanoparçacıklar",
                         "Metal, Alaşım ve Metal Nanoparçacıkların Çevresel Etkileri",
                         "Yeşil Kimyanın Atık Önleme İlkesi"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Biology",
@@ -108,8 +105,7 @@
                         "Hücre Zarından Madde Geçişleri",
                         "Hücreden Doku",
                         "Organ ve Sistemlerin Organizasyonu"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Geography",
@@ -133,8 +129,7 @@
                         "Afet Türleri",
                         "Bütüncül Afet Yönetimi",
                         "Bölge ve Bölge Sınırı"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "History",
@@ -152,8 +147,7 @@
                         "Orta Çağ’daki Başlıca Devletlerin Yönetim ve Ordu Yapıları",
                         "Orta Çağ’daki Ticaret Yolları",
                         "Orta Çağ’daki Başlıca Medeniyet Havzalarında Bilim, Kültür ve Sanat"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Turkish",
@@ -207,8 +201,7 @@
                         "E-Posta Nedir?",
                         "Günlük Nedir?",
                         "Blog Nedir?"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "English",
@@ -223,8 +216,7 @@
                         "THEME 8: EMERGENCY AND HEALTH PROBLEMS / ÜNİTE 8: ACİL DURUM VE SAĞLIK SORUNLARI",
                         "THEME 9: INVITATIONS AND CELEBRATIONS / ÜNİTE 9: DAVET VE KUTLAMALAR",
                         "THEME 10: TELEVISION AND SOCIAL MEDIA / ÜNİTE 10: TELEVİZYON VE SOSYAL MEDYA"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "German",
@@ -255,8 +247,7 @@
                         "Meine Stadt / Benim Şehrim",
                         "Meine Klamotten / Benim Kıyafetlerim",
                         "Super! Wieder Ferien / Harika! Yeniden Tatil"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Religion",
@@ -277,8 +268,7 @@
                         "Hz. Muhammed’in Beşerî ve Peygamberlik Yönü",
                         "Hz. Muhammed’in Örnekliği",
                         "Kültürümüzde Hz. Muhammed ve Ehlibeyt Sevgisi"
-                    ],
-                    "Books": []
+                    ]
                 }
             ]
         },
@@ -306,8 +296,7 @@
                         "Katı CisimlerDik PrizmalarDik Piramitler",
                         "Dik Prizmalar",
                         "Dik Piramitler"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Physics",
@@ -336,8 +325,7 @@
                         "Mercekler",
                         "Prizmalar",
                         "Renk"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Chemistry",
@@ -355,8 +343,7 @@
                         "Tuzlar",
                         "Yaygın Günlük Hayat Kimyasalları",
                         "Gıdalar"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Biology",
@@ -368,8 +355,7 @@
                         "Ekosistem Ekolojisi",
                         "Güncel Çevre Sorunları ve İnsan",
                         "Doğal Kaynaklar ve Biyolojik Çeşitliliğin Korunması"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Geography",
@@ -412,8 +398,7 @@
                         "Afetlerin Dağılışı",
                         "Türkiye’deki Afetlerin Dağılışı",
                         "Afetlerden Korunma Yöntemleri"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "History",
@@ -449,8 +434,7 @@
                         "Osmanlı’da Toprak Mülkiyeti ve Tarımsal Üretim",
                         "Osmanlı Ekonomisinde Lonca Teşkilatı",
                         "Osmanlı Vakıf Sistemi"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Turkish",
@@ -496,8 +480,7 @@
                         "Gezi Yazısı",
                         "Divan Edebiyatında Gezi Yazısı",
                         "Cumhuriyet Edebiyatında Gezi Yazısı"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Philosophy",
@@ -520,8 +503,7 @@
                         "Alternatif Görüş Geliştirme",
                         "Felsefi Deneme Yazma",
                         "Felsefi Akıl Yürütme Becerilerini Diğer Alanlarda Kullanma"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Communication",
@@ -557,8 +539,7 @@
                         "Söyleşmeye Bağlı (Diyalog) Anlatım",
                         "Mizahi Anlatım",
                         "Ünlem"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "English",
@@ -573,8 +554,7 @@
                         "Digital Era",
                         "Modern Heroes and Heroines",
                         "Shopping"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Religion",
@@ -608,8 +588,7 @@
                         "İslam Düşüncesinde İtikadi ve Siyasi Yorumlar",
                         "İslam Düşüncesinde Fıkhi Yorumlar",
                         "Kuran’dan Mesajlar: Nisâ Suresi 59. Ayet"
-                    ],
-                    "Books": []
+                    ]
                 }
             ]
         },
@@ -643,8 +622,7 @@
                         "Katı Cisimler",
                         "Koşullu Olasılık",
                         "Deneysel ve Teorik Olasılık"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Geomerty",
@@ -657,8 +635,7 @@
                         "Çemberde Teğet",
                         "Dairenin Çevresi ve Alanı",
                         "Katı Cisimler"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Physics",
@@ -691,8 +668,7 @@
                         "Manyetizma ve Elektromanyetik İndüklenme",
                         "Alternatif Akım",
                         "Transformatörler"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Chemistry",
@@ -721,8 +697,7 @@
                         "Kimyasal Denge",
                         "Dengeyi Etkileyen Faktörler",
                         "Sulu Çözelti Dengeleri"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Biology",
@@ -761,8 +736,7 @@
                         "Komünitede Türler Arasında Simbiyotik İlişkiler",
                         "Komünitelerdeki Süksesyon",
                         "Popülasyon Dinamiğine Etki Eden Faktörler"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Geography",
@@ -801,8 +775,7 @@
                         "Arazi Kullanımının Çevresel Etkileri",
                         "Küresel Çevre Sorunları",
                         "Doğal Kaynakların Sürdürülebilir Kullanımı"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "History",
@@ -825,8 +798,7 @@
                         "Osmanlı Devleti’nin Endüstriyel Üretime Geçiş Çabaları ve Yaşanan Zorluklar",
                         "Osmanlı Devleti’nin Nüfus Hareketlerinin Sebep ve Sonuçlar",
                         "Modernleşmeyle Birlikte Yaşanan Değişim ve Dönüşümler"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Turkish",
@@ -858,8 +830,7 @@
                         "Cumhuriyet Öncesinde Mülakat",
                         "Cumhuriyet Dönemi’nde Mülakat",
                         "Cumhuriyet Dönemi’nde Röportaj"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Communication",
@@ -879,8 +850,7 @@
                         "Röportaj",
                         "Mülakat (Görüşme)",
                         "Söylev (Hitabet, Nutuk)"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Philosophy",
@@ -906,8 +876,7 @@
                         "20. Yüzyıl Filozoflarının Felsefi Görüşlerinin Analizi",
                         "20. Yüzyıl Filozoflarının Düşünce ve Argümanlarını Değerlendirme",
                         "20 ve 21. Yüzyıl Felsefecileri ve Yaşadıkları Coğrafya"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Psychology",
@@ -964,8 +933,7 @@
                         "Ruh Sağlığı",
                         "Normal ve Normal Dışı Davranış Türleri",
                         "Psikolojik Destek Türleri"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Sociology",
@@ -1020,8 +988,7 @@
                         "Siyasal Yönetim Biçimleri",
                         "Demokrasi ve Toplumsal Yaşam",
                         "Atatürkçü Düşünce Sisteminde Vatandaşlık Hak ve Sorumlulukları"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "English",
@@ -1036,8 +1003,7 @@
                         "Sports",
                         "My Friends",
                         "Values and Norms"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "German",
@@ -1046,8 +1012,7 @@
                         "2. Ünite: Körperteile und Gesundheit (Vücudun Bölümleri ve Sağlık)",
                         "3. Ünite: Im Einkaufzentrum (Alışveriş Merkezinde)",
                         "4. Ünite: Urlaub und Reisen (Tatil ve Seyahat)"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Religion",
@@ -1074,8 +1039,7 @@
                         "Kur’an’dan Mesajlar: Enam Suresi 59. Ayet ve Lokman Suresi 27. Ayet",
                         "Yahudilik",
                         "Hristiyanlık"
-                    ],
-                    "Books": []
+                    ]
                 }
             ]
         },
@@ -1098,8 +1062,7 @@
                         "Belirsiz İntegral",
                         "Belirli İntegral ve Uygulamaları",
                         "Çemberin Analitik İncelenmesi"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Geomerty",
@@ -1108,8 +1071,7 @@
                         "Trigonometrik Denklemler",
                         "Analitik Düzlemde Temel Dönüşümler",
                         "Çemberin Analitik İncelenmesi"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Physics",
@@ -1133,8 +1095,7 @@
                         "Yarı İletken Teknolojisi",
                         "Süper İletkenler",
                         "Nanoteknoloji"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Chemistry",
@@ -1161,8 +1122,7 @@
                         "Alternatif Enerji Kaynakları",
                         "Sürdürülebilirlik",
                         "Nanoteknoloji"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Biology",
@@ -1177,8 +1137,7 @@
                         "Bitkilerde Madde Taşınması",
                         "Bitkilerde Eşeyli Üreme",
                         "Canlılar ve Çevre"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Geography",
@@ -1218,8 +1177,7 @@
                         "Çevre Politikaları",
                         "Çevresel Örgütler ve Çevre Anlaşmaları",
                         "Ortak Doğal ve Kültürel Mirasa Yönelik Tehditler"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Ataturk",
@@ -1257,8 +1215,7 @@
                         "1960-1990 Yılları Arasında Türkiye",
                         "1990 Sonrasında Türkiye",
                         "1990 Sonrasında Dünya’daki Gelişmeler ve Türkiye Etkileri"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Literature",
@@ -1292,8 +1249,7 @@
                         "Cumhuriyet Dönemi’nde Söylev",
                         "İslamiyet’in Kabulünden Önceki Türk Edebiyatında Söylev",
                         "İslamiyet Etkisinde Gelişen Türk Edebiyatında Söylev"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Modern History",
@@ -1330,8 +1286,7 @@
                         "Küreselleşen Dünyada Öne Çıkan Olay ve Olgular",
                         "1990 Sonrası Türk Dış Politikasındaki Gelişmeler",
                         "1990 Sonrası Türkiye’de Yaşanan Siyasi, Ekonomik, Sosyokültürel ve Bilimsel Gelişmeler"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Democracy",
@@ -1366,8 +1321,7 @@
                         "Şiddete Hayır",
                         "Barış, Her Yerde",
                         "Dünya Barışı İçin"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "English",
@@ -1382,8 +1336,7 @@
                         "12.8 Alternative Energy – Alternatif Enerji",
                         "12.9 Technology – Teknoloji",
                         "12.10 Manners – Davranış, Tutum"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Logic",
@@ -1428,8 +1381,7 @@
                         "Çok Değerli Mantık",
                         "Üç Değerli Mantık",
                         "Bulanık Mantık"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Sociology",
@@ -1467,8 +1419,7 @@
                         "Din Kurumu ve Toplumsal Hayat",
                         "Ekonomi Kurumu ve Toplumsal Hayat",
                         "Siyaset Kurumu ve Toplumsal Hayat"
-                    ],
-                    "Books": []
+                    ]
                 },
                 {
                     "Course": "Religion",
@@ -1525,10 +1476,205 @@
                         "Budizm",
                         "Konfüçyanizm",
                         "Taoizm"
-                    ],
-                    "Books": []
+                    ]
                 }
             ]
         }
+    ],
+    "Books": [
+        "3D Yayınları",
+        "Acil Yaynları",
+        "Akis Kitap",
+        "Akçağ Yayınları",
+        "Altın Karma",
+        "Altın Nokta Basım Yayın Yayınları",
+        "Anadolu Okul Yayınları",
+        "Ankara Dil Akademisi",
+        "Ankara Yayıncılık",
+        "Ankara Yayınları",
+        "Antrenman Yayınları",
+        "Anı Yayınları",
+        "Apotemi Yayınları",
+        "Arı Yayıncılık",
+        "Astana Yayınları",
+        "Ata Yayıncılık",
+        "Av Yayinlari",
+        "Aydın Yayınları",
+        "Aylak Kitap",
+        "Az Kitap",
+        "Açı Yayınları",
+        "Açıklise Tv",
+        "Basamak Yayınları",
+        "Başarı Teknik Yayınları",
+        "Başarıyorum Yayınları",
+        "Başat Yayınları",
+        "Başka Yayıncılık",
+        "Beka Yayınları",
+        "Benim Hocam Yayınları",
+        "Bes Yayınları",
+        "Beta Yayınevi",
+        "Beyaz Balina Yayınları",
+        "Beşir Kitabevi",
+        "Bigpoint",
+        "Bilfen Yayıncılık",
+        "Bilgi Sarmal Yayınları",
+        "Bilgi Yayınları",
+        "Bilgiyolu Yayıncılık",
+        "Binot Yayınları",
+        "Birey Yayınları",
+        "Biyotik Yayınları",
+        "Cem Yayınevi",
+        "Cevdet Özsever Yayınları",
+        "Ddy Yayınları",
+        "Delta",
+        "Delta Yayınları",
+        "Dergah Yayınları",
+        "Destek Yayınları",
+        "Doktrin Yayınları",
+        "Dokuz Yayınları",
+        "Doğru Kaynak",
+        "Editör Yayınevi",
+        "Editör Yayınları",
+        "Efsane Yayınları",
+        "Egzersiz Yayınları",
+        "Eis Yayınları",
+        "Eker Test Yayınları",
+        "Ekin Basım Yayın",
+        "Eksen Yayınları",
+        "Ekstrem Yayınları",
+        "Endemik Yayınları",
+        "Ens Yayınları",
+        "Ensar Neşriyat",
+        "Ertan Sinan Şahin",
+        "Esen Yayınları",
+        "Evrensel İletişim Yayınları",
+        "Eğitim Vadisi",
+        "Eğitim Yayınevi",
+        "Fen Bilimleri Yayınları",
+        "Fenomen Yayıncılık",
+        "Final Yayınları",
+        "Fix Yayınları",
+        "Full Yayinlari",
+        "Gama Yayınları",
+        "Gazi Kitabevi",
+        "Genç Timaş",
+        "Gezegen Yayınları",
+        "Günışığı Kitaplığı",
+        "Hayrat Neşriyat",
+        "Hep Kitap",
+        "Hız Ve Renk Yayınları",
+        "Hız Yayınları",
+        "Kafa Dengi Yayınları",
+        "Kampüs Yayınları",
+        "Karaağaç Yayıncılık",
+        "Karekök Yayınları",
+        "Karma Kitaplar",
+        "Kaynak Yayınları",
+        "Kelime Yayınları",
+        "Kitap Dünyası",
+        "Kolektif Kitap",
+        "Kurmay Yayınları",
+        "Kültür Yayınları",
+        "Küp Yayınları",
+        "Limit Yayınları",
+        "Liyakat Yayınları",
+        "Marka Yayınları",
+        "Mavi Kelebek Yayınları",
+        "Mektep Yayınları",
+        "Metin Yayınları",
+        "Miray Yayınları",
+        "Muba Yayınları",
+        "Murat Yayınları",
+        "Nan Kitap",
+        "Nartest Yayınları",
+        "Nesil Yayınları",
+        "Nesin Yayınevi",
+        "Netbil Yayınları",
+        "Nihat Bilgin Yayınları",
+        "Nika Yayınevi",
+        "Nitelik Yayınları",
+        "Nobel Akademik Yayıncılık",
+        "Okyanus Yayınları",
+        "Orbital Yayınları",
+        "Orjinal",
+        "Otto Yayınları",
+        "Palme Yayınevi",
+        "Pamuk Yayıncılık",
+        "Pandül Yayınları",
+        "Paraf Yayınları",
+        "Parıltı Yayınları",
+        "Pegem Akademi Yayıncılık",
+        "Pembe Pasaj",
+        "Pes Yayınları",
+        "Pinhan Yayıncılık",
+        "Polimat Yayınları",
+        "Pozitif Yayınları",
+        "Prf Paraf Yayınları",
+        "Psikonet Yayınları",
+        "Puan Yayınları",
+        "Rağbet Yayınları",
+        "Referans Yayınları",
+        "Rehber Matemati̇k Yayinlari",
+        "Remzi Kitabevi",
+        "Ren Kitap",
+        "Robert Yayınları",
+        "Sadık Uygun Yayınları",
+        "Say Yayınları",
+        "Sel Yayıncılık",
+        "Server Yayınları",
+        "Seçkin Yayıncılık",
+        "Simya Dergisi Yayınları",
+        "Siyasal Kitabevi",
+        "Son Viraj Yayınları",
+        "Sonuç Derece Yayınları",
+        "Sonuç Yayınları",
+        "Soru Kalesi Yayınları",
+        "Speed Up Publishing",
+        "Spoiler Yayınları",
+        "Strateji Yayıncılık",
+        "Sınav Yayınları",
+        "Tammat Yayıncılık",
+        "Teas Press Yayınları",
+        "Teaser",
+        "Test Okul Yayınları",
+        "Testokur",
+        "Tonguç Yayınları",
+        "Toprak Yayıncılık",
+        "Tudem Yayınları",
+        "Uzman Yayınları",
+        "Vaf Çap Yayincilik",
+        "Vizetek Yayıncılık",
+        "Yanıt Yayınları",
+        "Yapı Kredi Yayınları",
+        "Yarıçap Yayınları",
+        "Yayin Deni̇zi̇ Pro",
+        "Yazıt Yayıncılık",
+        "Yazıt Yayınları",
+        "Ydspublishing Yayınları",
+        "Yeditepe Yayınevi",
+        "Yeni İnsan Yayınevi",
+        "Yüzde Yüz Yayınları",
+        "Zafer Yayınları",
+        "Zeki Çocuk Yayınları",
+        "Çalışkan Arı Yayınları",
+        "Çap Yayınları",
+        "Çapa Yayinlari",
+        "Çelik Yayınevi",
+        "Çi̇ta Yayinlari",
+        "Çöz Kazan Yayınları",
+        "Çözüm Yayınları",
+        "Özgün Yayınları",
+        "Ünlü Yayınları",
+        "Ünlüler Karması",
+        "Üç Dört Beş Yayıncılık",
+        "Üçgen Yayıncılık",
+        "İletişim Yayınları",
+        "İmge Kitabevi Yayınları",
+        "İnkılap Kitabevi",
+        "İsabet Yayınları",
+        "İskele Yayıncılık",
+        "Şeker Portakalı Yayıncılık",
+        "Şenol Hoca",
+        "Şifa Yayınevi"
     ]
 }
