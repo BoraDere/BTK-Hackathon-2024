@@ -1,0 +1,270 @@
+{
+    "Education": "High School",
+    "Grades": [
+        {
+            "Grade": 1,
+            "Courses": [
+                {
+                    "Course": "Mathematics",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Physics",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Chemistry",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Biology",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Geography",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "History",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Turkish",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "English",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "German",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Religion",
+                    "Topics": [],
+                    "Books": []
+                }
+            ]
+        },
+        {
+            "Grade": 2,
+            "Courses": [
+                {
+                    "Course": "Mathematics",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Physics",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Chemistry",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Biology",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Geography",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "History",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Turkish",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Philosophy",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Communication",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "English",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Religion",
+                    "Topics": [],
+                    "Books": []
+                }
+            ]
+        },
+        {
+            "Grade": 3,
+            "Courses": [
+                {
+                    "Course": "Mathematics",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Geomerty",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Physics",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Chemistry",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Biology",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Geography",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "History",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Turkish",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Communication",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Philosophy",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Sociology",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "English",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "German",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Religion",
+                    "Topics": [],
+                    "Books": []
+                }
+            ]
+        },
+        {
+            "Grade": 4,
+            "Courses": [
+                {
+                    "Course": "Mathematics",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Geomerty",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Physics",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Chemistry",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Biology",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Geography",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Ataturk",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Literature",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Modern History",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Democracy",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "English",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Logic",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Sociology",
+                    "Topics": [],
+                    "Books": []
+                },
+                {
+                    "Course": "Religion",
+                    "Topics": [],
+                    "Books": []
+                }
+            ]
+        }
+    ]
+}

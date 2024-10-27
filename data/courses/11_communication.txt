@@ -1,0 +1,15 @@
+Metinlerin Sınıflandırılması
+Mektup
+Günlük (Günce)
+Anı (Hatıra)
+Biyografi (Hayat Hikâyesi), Otobiyografi
+Gezi Yazısı (Seyahatname)
+Sohbet (Söyleşi)
+Haber Yazıları
+Fıkra
+Deneme
+Makale
+Eleştiri (Tenkit)
+Röportaj
+Mülakat (Görüşme)
+Söylev (Hitabet, Nutuk)

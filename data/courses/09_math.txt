@@ -1,0 +1,20 @@
+Gerçek Sayıların Üslü ve Köklü Gösterimleri ile Yapılan İşlemler
+Gerçek Sayı Aralıkları ile Yapılan İşlemler
+Sayı Kümeleri ve İşlem Özellikleri
+İki Kare Farkı ve Tamkare Özdeşlikleri
+Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer
+Fonksiyonlarının Nitel Özellikleri
+Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler
+Algoritma Temelli Problemler
+Mantık Bağlaçları ve Niceleyiciler
+Üçgende Açı ve Kenarla İlgili Özellikler
+Üçgende Açı Özellikleri Arasındaki İlişkiler
+Üçgende Kenar Özellikleri Arasındaki İlişkiler
+Geometrik Şekillerin Yansıma, Öteleme ve Dönme Dönüşümleri Sonrası
+Görünüşü ve Bu Görünüşün Özellikleri
+Üçgenlerde Eşlik ve Benzerlik Koşulları
+Tek Nicel Değişken İçeren İstatistiksel Problemi Oluşturma
+Verileri Toplama ve Analize Hazır Hâle Getirme
+Bulgulara Ulaşma ve Bulguları Yorumlama
+İstatistiksel Görsel
+Özet, Sonuç, Yorum, Çıkarım veya Tahminleri Değerlendirme

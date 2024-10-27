@@ -1,0 +1,58 @@
+Sunum
+Tartışma
+Panel
+Anlatıma Hazırlık
+Anlatımda Tema ve Konu
+Anlatımda Sınırlandırma
+Anlatımın ve Anlatıcının Amacı
+Anlatımda Anlatıcının Tavrı
+Anlatımın Temel Özellikleri
+Anlatımın Oluşumu
+Anlatım Türlerinin Sınıflandırılması
+Öyküleyici (Hikâye Edici) Anlatım – İsimÖyküleyici Anlatımİsim
+Öyküleyici Anlatım
+İsim
+Betimleyici (Tasvir Edici) Anlatım – SıfatBetimleyici (Tasvir Edici) AnlatımSıfat
+Betimleyici (Tasvir Edici) Anlatım
+Sıfat
+Coşku ve Heyecana Bağlı (lirik) Anlatım-ZamirCoşku (Lirik) ve Heyecana Bağlı AnlatımZamir
+Coşku (Lirik) ve Heyecana Bağlı Anlatım
+Zamir
+Destansı (Epik) Anlatım – Emredici Anlatım – Fiil /FiilimsiDestansı (Epik) AnlatımEmredici AnlatımFiil / Fiilimsi
+Destansı (Epik) Anlatım
+Emredici Anlatım
+Fiil / Fiilimsi
+Öğretici Anlatım – Açıklayıcı Anlatım – Tartışmacı Anlatım ve Kanıtlayıcı Anlatım – ZarfÖğretici AnlatımAçıklayıcı AnlatımTartışmacı AnlatımKanıtlayıcı AnlatımZarf
+Öğretici Anlatım
+Açıklayıcı Anlatım
+Tartışmacı Anlatım
+Kanıtlayıcı Anlatım
+Zarf
+Düşsel (Fantastik) Anlatım – Gelecekten Söz Eden Anlatım – Edat, BağlaçDüşsel (Fantastik) AnlatımGelecekten Söz Eden AnlatımEdat, Bağlaç
+Düşsel (Fantastik) Anlatım
+Gelecekten Söz Eden Anlatım
+Edat, Bağlaç
+Söyleşmeye Bağlı Anlatım (Diyalog) – Mizahi Anlatım – ÜnlemSöyleşmeye Bağlı (Diyalog) AnlatımMizahi AnlatımÜnlem
+Söyleşmeye Bağlı (Diyalog) Anlatım
+Mizahi Anlatım
+Ünlem
+Öyküleyici Anlatım
+İsim
+Betimleyici (Tasvir Edici) Anlatım
+Sıfat
+Coşku (Lirik) ve Heyecana Bağlı Anlatım
+Zamir
+Destansı (Epik) Anlatım
+Emredici Anlatım
+Fiil / Fiilimsi
+Öğretici Anlatım
+Açıklayıcı Anlatım
+Tartışmacı Anlatım
+Kanıtlayıcı Anlatım
+Zarf
+Düşsel (Fantastik) Anlatım
+Gelecekten Söz Eden Anlatım
+Edat, Bağlaç
+Söyleşmeye Bağlı (Diyalog) Anlatım
+Mizahi Anlatım
+Ünlem
